@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
+<h1> Welcome to DevOps_Wave4_GlobalLogic_Training</h1>
 
